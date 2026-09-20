@@ -3,7 +3,7 @@
 Welcome to this open-source repository dedicated to the intersection of **Generative AI** and **Motion Design**. 
 
 This project aims to fill a gap in the video production ecosystem by providing structured prompt frameworks, automation pipelines, and compositing workflows for creators, animators, and studios.
-
+![Concept Documentaire 1953](1953.jpg)
 ## 🎯 Project Overview
 As AI tools evolve, integrating them into traditional video production pipelines (like Adobe After Effects, Premiere Pro, or DaVinci Resolve) can be challenging. This repository provides:
 - **Prompt Frameworks:** Structured text-to-video and text-to-image prompts for engines like Veo, Kling, LTX-2.5, and Midjourney.
